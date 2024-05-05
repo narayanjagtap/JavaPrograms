@@ -14,7 +14,7 @@ class calc2{
 public class Array16 {
     public static void main(String[] args) {
         calc2 obj = new calc2();
-        int data[] = {9,6,7,3,3,4};
+        int data[] = {9,6,7,3,5,4};
         int result = obj.add(data);
         System.out.println(result);
     }

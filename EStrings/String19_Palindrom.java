@@ -19,3 +19,26 @@ public class String19_Palindrom {
         }
     }
 }
+
+
+
+
+/*public class Practice2 {
+
+    public static void main(String[] args) {
+        String data = "madam";
+        int flage = 0;
+
+        for(int i=0; i<data.length()/2; i++){
+            if (data.charAt(i)!=data.charAt(data.length()-1-i)) {
+                flage = 1;
+            }
+        }
+        if (flage == 0) {
+            System.out.println("This String are a Palindrom...");
+        }else{
+            System.out.println("This string are not Palindrom...");
+        }
+    }
+}
+ */

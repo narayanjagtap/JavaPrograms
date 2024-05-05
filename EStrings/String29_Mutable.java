@@ -5,7 +5,7 @@ public class String29_Mutable {
 
         StringBuffer Name1 = new StringBuffer("Virat");
 
-        Name1.append("Kohali");
+        Name1.append(" Kohali");
 
         System.out.println(Name1);
         

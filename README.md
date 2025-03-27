@@ -1,22 +1,48 @@
-# Java Practice Programs 
+# **Java Programs Collection**  
 
-1. Fundamental of Java
-2. Patterns
-3. OOPs Fundamental
-4. Array
-5. Strings
-6. Static Keyword
-7. Encapsulation
-8. Constructor
-9. Inheritance
-10. Polymorphism
-11. Abstracr Method
-12. Final keyword
-13. Revision on OOPs
-14. Interface and Lambda
-15. Exception Handling
-16. Multithreading
-17. Collection Framework
-18. Map and Generics
-19. APIs Annotation
-20. InputOutput Operation
+This repository contains various **Java programs** covering fundamental to advanced concepts of Java programming. Each folder contains a specific topic along with relevant Java files and explanations.  
+
+## **Features** ✨  
+- Basics of **Java programming**  
+- **Object-Oriented Programming (OOPs)** concepts  
+- **Exception handling** and multi-threading  
+- **Collections Framework** and Generics  
+- **Java APIs, Annotations, and Input/Output operations**  
+
+## **Folder Structure**  
+Each folder contains a specific Java concept with corresponding programs.  
+
+| Folder Name | Description |  
+|------------|------------|  
+| **AFundamentalOfJava** | Basic Java fundamentals and syntax. |  
+| **BPattern** | Pattern printing programs. |  
+| **COopsFundamental** | Core concepts of Object-Oriented Programming. |  
+| **DArray** | Working with arrays in Java. |  
+| **EStrings** | String manipulation and operations. |  
+| **FStaticKeyword** | Usage of the `static` keyword in Java. |  
+| **GEncapsulation** | Implementing encapsulation in Java. |  
+| **HConstructor** | Understanding constructors in Java. |  
+| **IInheritance** | Implementation of inheritance. |  
+| **JPolymorphism** | Method overloading and method overriding. |  
+| **KAbstractMethod** | Working with abstract classes and methods. |  
+| **Lfinal_Keyword** | Usage of the `final` keyword. |  
+| **MRevisionOnOops** | Revision of OOPs concepts. |  
+| **NInterfaceAndLambda** | Interfaces and Lambda expressions. |  
+| **OExceptionHandling** | Handling exceptions in Java. |  
+| **PMultiThreading** | Implementing multithreading in Java. |  
+| **QCollectionFramework** | Working with Java Collections Framework. |  
+| **RMapAndGenerics** | Maps and Generics in Java. |  
+| **S_APIs_Annotation** | Java APIs and Annotations. |  
+| **T_InputOutputOperation** | File handling and input-output operations. |  
+
+## **Prerequisites** 🛠️  
+- **JDK 8 or later**  
+- **Eclipse/IntelliJ IDEA** (for development)  
+
+## **Contributing** 🤝  
+Contributions are welcome! Feel free to fork the repo and submit pull requests.  
+
+## **Contact** 📩  
+For any queries or suggestions, reach out to:  
+- 📧 Email: sj967334@gmail.com  
+- 🔗 Linkedin: [narayanpjagtap](https://www.linkedin.com/in/narayanpjagtap/)  
